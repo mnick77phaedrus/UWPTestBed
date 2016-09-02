@@ -3,7 +3,7 @@
   <Identity Name="4826bd8c-b27a-4b3f-9105-3d09446fd41c" Publisher="CN=Titanium" Version="1.0.0.0" />
   <mp:PhoneIdentity PhoneProductId="4826bd8c-b27a-4b3f-9105-3d09446fd41c" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
-    <DisplayName>WindowsApp1</DisplayName>
+    <DisplayName>Template10FirstProject</DisplayName>
     <PublisherDisplayName>Titanium</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
